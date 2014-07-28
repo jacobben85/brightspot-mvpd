@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hudson
+Build-Jdk: 1.6.0_26
+Dari-ClassFinder-Include: true
+Dari-SourceFilter-JavaSources: /mnt/hudson/jobs/brightspot-cms-2.3/wor
+ kspace/tool-ui/src/main/java
+Dari-SourceFilter-WebappSources: /mnt/hudson/jobs/brightspot-cms-2.3/w
+ orkspace/tool-ui/src/main/webapp
+

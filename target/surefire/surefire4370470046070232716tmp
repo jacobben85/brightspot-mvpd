@@ -1,0 +1,5 @@
+#surefire
+#Fri Jul 11 16:05:02 EDT 2014
+user.dir=/cust/app/cms
+localRepository=/home/jacob/.m2/repository
+basedir=/cust/app/cms
